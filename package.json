@@ -2,14 +2,14 @@
     "name": "disc-11",
     "version": "1.55.10",
     "private": true,
-    "description": "A dedicated open-source music bot for Zhycorp based on Jukebox",
+    "description": "A dedicated open-source music bot for Invasion based on Jukebox",
     "homepage": "https://github.com/zhycorp/disc-11#readme",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/zhycorp/disc-11.git"
+        "url": "git+https://github.com/7ngles/disc-11.git"
     },
     "bugs": {
-        "url": "https://github.com/zhycorp/disc-11/issues"
+        "url": "https://github.com/7ngles/disc-11/issues"
     },
     "license": "BSD-3-Clause",
     "author": "Zhycorp <support@zhycorp.com> (https://github.com/zhycorp)",
